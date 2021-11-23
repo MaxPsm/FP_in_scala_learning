@@ -127,7 +127,6 @@ object datastructures {
       def go:BtoB = foldRight(as, innerIdent)(combinerDelayer)
       go(outerIdent)
     }
-
   }
 
 
