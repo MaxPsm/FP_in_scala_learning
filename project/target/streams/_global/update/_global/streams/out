@@ -1,4 +1,3 @@
 [0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = true, force = false[0m
 [0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/Users/tk_user/Desktop/work/FP_in_scala_learning/project/"), "fp_in_scala_learning-build")...[0m
-[0m[[0m[33mwarn[0m] [0m[0mUnrecognized repository Scala Plugin Bundled Repository, ignoring it[0m
 [0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/Users/tk_user/Desktop/work/FP_in_scala_learning/project/"), "fp_in_scala_learning-build")[0m
